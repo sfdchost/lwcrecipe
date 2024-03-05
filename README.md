@@ -1,1 +1,1 @@
-# lwcrecipe all lwc code test
+# lwcrecipe all lwc code recipe by Salesforce
